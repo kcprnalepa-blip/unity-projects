@@ -36,5 +36,7 @@ For this project, I worked on the gameplay systems, including player movement, p
 Windows
 
 ## Play
+HeartWired-Fixed is an updated version of the original HeartWired project.
 
+The original version had an issue where player movement did not work correctly on some computers. This version addresses that problem and provides a more reliable gameplay experience across different systems.
 [Play HeartWired on itch.io](https://kaspil.itch.io)
