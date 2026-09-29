@@ -10,6 +10,10 @@ The player controls a spaceship and must survive while destroying incoming aster
 
 The game focuses on simple controls, quick reactions and arcade-style gameplay.
 
+![Intro](screenshots/Gameplay.png)
+
+![Gameplay](screenshots/Intro.png)
+
 ## Features
 
 * Spaceship movement
