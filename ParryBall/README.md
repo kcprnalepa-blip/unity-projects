@@ -10,6 +10,16 @@ Players must **parry a ball** at the right moment, sending it back toward their 
 
 The scoring system is inspired by **volleyball**: if the ball touches a player's side of the arena, the opponent scores a point.
 
+## Screenshots
+
+![Gameplay](screenshots/GamePlay.png)
+
+![Parry](screenshots/Parry.png)
+
+![Main Menu](screenshots/MainMenu.png)
+
+
+
 ## Features
 
 * Local 1v1 multiplayer
