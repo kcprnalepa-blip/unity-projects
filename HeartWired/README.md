@@ -10,6 +10,10 @@ The player must move through the level while avoiding incoming projectiles and n
 
 The game focuses on movement, timing and quick reactions.
 
+![Intro](screenshots/Gameplay.png)
+
+![Gameplay](screenshots/Main.png)
+
 ## Features
 
 * Player movement
